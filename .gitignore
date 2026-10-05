@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform.tfstate.lock.info
+package/
+lambda_function_payload.zip
+response.json
+.DS_Store
